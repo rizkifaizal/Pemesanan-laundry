@@ -1,3 +1,28 @@
+<h1>Hasil screenShot aplikasi pemesanan laundry</h1>
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/12af8dae-1d3c-4a78-9ae2-c11f8962d888">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/8ef009d5-67d0-4faa-821a-524f866e484e">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/57563328-baf1-4d09-b49d-cc68df1565e6">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/2a6b13b1-ceb2-4e97-ad7c-bccb22ca27b1">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/b174f2b9-f660-4e68-b8c2-1a2f1d7d7ff9">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/b60c4fae-36f8-42b8-8323-9a93be4f4669">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/2b1969d1-ed0f-4bff-86b0-88369d03e5e7">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/98930f2d-5c09-4180-b846-86e529d0aaac">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/b0ed45b5-5d72-47db-8e14-743b7a73dbad">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/6ee51287-144c-4e9b-913e-bcda7af43616">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/73c2cd41-e98c-45b2-862b-37fd8e812538">
+
+<img title="a title" alt="Alt text" src="https://github.com/rizkifaizal/Pemesanan-laundry/assets/138428427/46f59c62-6bf6-42c8-afae-96616c8ac404">
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
